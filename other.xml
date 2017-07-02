@@ -1,0 +1,29 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Development/silverside/silverside-app/kkmbfin style guide.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.11.0" last-modified="1498759375000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <Redmine shared="false" url="http://rm.silverside.sk">
+      <option name="APIKey" value="" />
+      <option name="assignedToMe" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <RedmineProject id="22" identifier="sla-chybove-hlasenia" />
+      </option>
+      <password>dfdbdfdddfcfdfd8dfdedfd3df93df9bdf93dfeadf8b</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>averzia</username>
+    </Redmine>
+  </component>
+</application>
