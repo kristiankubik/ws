@@ -1,14 +1,11 @@
 <scheme name="Material Theme - Default kk" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Monaco" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Roboto Mono Light for Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -736,6 +733,60 @@
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="9373a5" />
+      </value>
+    </option>
+    <option name="JADE_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="JADE_COLON">
+      <value />
+    </option>
+    <option name="JADE_COMMA">
+      <value />
+    </option>
+    <option name="JADE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="546e7a" />
+      </value>
+    </option>
+    <option name="JADE_DOCTYPE">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="JADE_EMBEDDED_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="a7dbd8" />
+        <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="JADE_FILE_PATH">
+      <value>
+        <option name="FOREGROUND" value="65ff51" />
+      </value>
+    </option>
+    <option name="JADE_FILTER_NAME">
+      <value>
+        <option name="FOREGROUND" value="5e5bce" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JADE_JS_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="6fc631" />
+      </value>
+    </option>
+    <option name="JADE_TAG_CLASS">
+      <value>
+        <option name="FOREGROUND" value="ff5370" />
+      </value>
+    </option>
+    <option name="JADE_TAG_ID">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="JAVA_COMMA">
