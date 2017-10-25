@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="asd" type="JavaScript" />
+      <mapping pattern=".eslintconf" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="sk" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
