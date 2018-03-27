@@ -10,6 +10,7 @@
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
+      <mapping pattern="view_business_case" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="asd" type="JavaScript" />
       <mapping pattern=".editoconfig" type="PLAIN_TEXT" />
